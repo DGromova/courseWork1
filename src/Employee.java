@@ -16,9 +16,7 @@ public class Employee {
         this.salary = salary;
     }
 
-    public int getId() {
-        return id;
-    }
+    public int getId() { return id; }
 
     public String getLastName() {
         return lastName;
@@ -34,12 +32,10 @@ public class Employee {
     }
 
     public byte getDepartment() {
-
         return department;
     }
 
     public double getSalary() {
-
         return salary;
     }
 
